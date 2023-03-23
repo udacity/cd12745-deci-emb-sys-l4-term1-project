@@ -1,3 +1,5 @@
-# Purpose of this Folder
+# Project starter code
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+This project contains two files (servo.py and joystick.py). These are helper classes to read joystick status and control servo motors.
+
+These files helps to organize the project better. We have provided a template for the two classes so you can populate them and use inside your main.py file.
